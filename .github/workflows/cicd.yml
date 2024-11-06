@@ -30,7 +30,7 @@ jobs:
           jupyter nbconvert --to notebook --execute week-9-mini-project_zihan-xiao.ipynb  
 
       - name: Upload test results
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: notebook-results
           path: week-9-mini-project_zihan-xiao.ipynb  

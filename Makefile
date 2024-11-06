@@ -9,7 +9,6 @@ lint:
 
 test:
 	python -m pytest --cov=script --cov=lib
-	py.test --nbval
+	pytest --nbval
 
-all: 
-	install format lint test
+all: install format lint test

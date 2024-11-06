@@ -1,5 +1,5 @@
 ---
-
+[![CI Pipeline](https://github.com/nogibjj/zihan_cloud_hosted_ipynb_week9/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/zihan_cloud_hosted_ipynb_week9/actions/workflows/cicd.yml)
 # Diamonds Dataset Analysis
 
 This repository contains a data analysis of a diamonds dataset using Python. The analysis focuses on understanding the relationships between different features in the dataset and explores the distribution of diamond prices. 
